@@ -1,0 +1,137 @@
+<!--l-->
+l
+l
+
+.circleBtn{
+    height:55px;
+    width:55px;
+    border-radius:  50%;
+    margin-right:500px;
+    border: none;
+    background-color: rgb(11, 252, 31);
+    float:right;
+margin-top: 5px;
+
+
+}
+
+.msginp{
+    width:250px;
+    height:50px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 5px;
+    margin-left: 150px;
+    border: none;
+    padding-left: 25px;
+    margin-bottom: 5px;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cola{
+    height:65px;
+    width:65px;
+    padding-left: 0px;
+}
+.msgalignend{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.msgalignstart{
+    display: flex;
+    justify-content: flex-start;
+    min-height: 5px;
+    
+}
+
+.botmsg{
+    background-color: rgb(205, 173, 241);
+    padding-left: 15px;
+    padding-right: 15px;
+    height:auto;
+    min-height: 45px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-radius: 25px;
+    max-width: 20rem;
+}
+
+.usermsg{
+    background-color: rgb(235, 220, 252);
+    padding-left: 15px;
+    padding-right: 15px;
+    height:auto;
+    min-height: 45px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-radius: 25px;
+    max-width: 20rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(140, 27, 185); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b909e6; 
+  }
+
+.botIcon{
+    font-size: 45px;
+    border : 1px solid black;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.userIcon{
+    font-size: 40px;
+    border : 1px solid black;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+
+}
+
+.sendBtn{
+    font-size:30px;
+    justify-content: flex-end;
+    
+   margin-top: 3px;
+   
+}
+.circleBtn1{
+    margin-top: 11px;
+}
+.imgstyle{
+float: left;
+height: 30px;
+width: 60px;
+padding-left:10px ;
+margin-top: 20px;
+}
+.headingtext{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:#53fc10;
+    font-size:28px;
+
+}
